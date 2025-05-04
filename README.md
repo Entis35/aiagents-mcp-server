@@ -1,26 +1,13 @@
 
-# Create project directory
-uv init mcp-client
-cd mcp-client
+## AI Agents with MCP Architecture
 
-# Create virtual environment
-uv venv
+### add .env file following .env_template file
+ANTHROPIC_API_KEY=""
 
-# Activate virtual environment
-# On Windows:
-.venv\Scripts\activate
-# On Unix or MacOS:
-source .venv/bin/activate
+### Download Claude Desktop from the below link
+https://claude.ai/download
 
-# Install required packages
-uv add mcp anthropic python-dotenv
-
-# Remove boilerplate files
-# On Windows:
-del main.py
-# On Unix or MacOS:
-rm main.py
-
-# Create our main file
-touch client.py
-​
+### Link reference for MCP (Model Context Protocol) architecture
+https://modelcontextprotocol.io/introduction
+https://modelcontextprotocol.io/quickstart/server
+https://modelcontextprotocol.io/quickstart/client
