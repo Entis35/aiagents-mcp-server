@@ -8,6 +8,6 @@ ANTHROPIC_API_KEY=""
 https://claude.ai/download
 
 ### Link reference for MCP (Model Context Protocol) architecture
-https://modelcontextprotocol.io/introduction
-https://modelcontextprotocol.io/quickstart/server
-https://modelcontextprotocol.io/quickstart/client
+- https://modelcontextprotocol.io/introduction
+- https://modelcontextprotocol.io/quickstart/server
+- https://modelcontextprotocol.io/quickstart/client
